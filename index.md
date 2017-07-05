@@ -1,6 +1,5 @@
 # Développeur JAVA/JEE
 
-
 ## Formations
 
 - **2015** MongoDB - _Iform_
