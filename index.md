@@ -96,8 +96,7 @@
 
 ### Meetups
 
-- Coding Dojo
-- Code and coffee
+- Software Craftsmanchip Toulouse : Coding Dojo, Code and coffee
 - Toulouse JUG
 
 ## Autre
