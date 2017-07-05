@@ -93,7 +93,7 @@
 - **Distribution** Archlinux, Proxmox, Ubuntu
 - **Container** LXC / Docker
 - **Langages** Java8, JAX-RS
-- **Outils** Ansible, Gogs, Jenkins, Sonar, Nextcloud, Nextcloud, NexusOSS, Artifactory, Eclipse, Bind9, Postfix, Spamassassin, PHP-FPM, MySQL (MariaDB), MongoDB
+- **Outils** Ansible, Gogs, Jenkins, Sonar, Nextcloud, NexusOSS, Artifactory, Eclipse, Bind9, Postfix, Spamassassin, PHP-FPM, MySQL (MariaDB), MongoDB
 
 ### Meetups
 
