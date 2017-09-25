@@ -1,23 +1,5 @@
 # Développeur JAVA/JEE
 
-## Formations
-
-- **2015** MongoDB - _Iform_
-- **2014** Eclipse RCP 3.8 - _Opcoach_
-- **2011** Master 2: Génie Logiciel, logiciels Répartis et Embarqués - _Université Paul Sabatier_
-- **2008** Licence Informatique - _Université Champollion_
-- **2007** DUT Informatique - _IUT Blagnac_
-
-## Connaissances techniques
-
-- **Systèmes** Linux (Archlinux, Debian, Ubuntu, CentOS, Solaris, AIX), Windows (95 à 10)
-- **Langages** Java JEE, Eclipse RCP, Android, XML, WebService (SOAP & REST), PHP, CSS, Javascipt, Script Shell, Angular 2
-- **Serveurs d’applications** JBossEAP, Wildfly, Tomcat, Apache, Weblogic
-- **Bases de données** Oracle, MongoDB, ElasticSearch, MySQL (MariaDB), PL/SQL, SQL Orienté Objet
-- **Méthodologies** Agile, MACAO
-- **Outils / Framework** JMS, JUnit, GWT, Git, Hibernate, Jenkins (Hudson), Sonar, Eclipse, Ansible, Docker, LXC, Gogs, Nexus, Artifactory, SVN, Selenium, Xebium, Struts, Suite Office, Suite GeoConcept
-- **EAI/ETL** WebMethods / Informatica
-
 ## Expérience et principales réalisations
 
 ### MIPIH (CELAD) - 06/15 à Maintenant
@@ -93,6 +75,24 @@
 - **Container** LXC / Docker
 - **Langages** Java8, JAX-RS
 - **Outils** Ansible, Gogs, Jenkins, Sonar, Nextcloud, NexusOSS, Artifactory, Eclipse, Bind9, Postfix, Spamassassin, PHP-FPM, MySQL (MariaDB), MongoDB
+
+## Formations
+
+- **2015** MongoDB - _Iform_
+- **2014** Eclipse RCP 3.8 - _Opcoach_
+- **2011** Master 2: Génie Logiciel, logiciels Répartis et Embarqués - _Université Paul Sabatier_
+- **2008** Licence Informatique - _Université Champollion_
+- **2007** DUT Informatique - _IUT Blagnac_
+
+## Connaissances techniques
+
+- **Systèmes** Linux (Archlinux, Debian, Ubuntu, CentOS, Solaris, AIX), Windows (95 à 10)
+- **Langages** Java JEE, Eclipse RCP, Android, XML, WebService (SOAP & REST), PHP, CSS, Javascipt, Script Shell, Angular 2
+- **Serveurs d’applications** JBossEAP, Wildfly, Tomcat, Apache, Weblogic
+- **Bases de données** Oracle, MongoDB, ElasticSearch, MySQL (MariaDB), PL/SQL, SQL Orienté Objet
+- **Méthodologies** Agile, MACAO
+- **Outils / Framework** JMS, JUnit, GWT, Git, Hibernate, Jenkins (Hudson), Sonar, Eclipse, Ansible, Docker, LXC, Gogs, Nexus, Artifactory, SVN, Selenium, Xebium, Struts, Suite Office, Suite GeoConcept
+- **EAI/ETL** WebMethods / Informatica
 
 ### Meetups
 
