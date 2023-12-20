@@ -3,7 +3,17 @@
 
 ## Expérience et principales réalisations
 
-### Forgeron et Développeur Java / Dart(AngularJS) - _3.5 ans_ - *MIPIH* 
+### DevOps, RSSI et Développer Go / Java - _2 ans_ - *Ubleam*
+
+- Responsable de l'infrastructure Kubernetes et CI/CD, Installation, Mise à jour, ...
+- Responsable de l'infrastructure Azure
+- Réalisation de release logicielles des projects
+- Développements Go et Java sur des microservices REST et GraphQL
+- RSSI: Évaluation des risques, suivi des passage d'audits, sensibilisation des employés, ...
+
+**Agilité, Pair Programming, Kubernetes, Docker, Git, Helm, TDD, IDEA, Webstorm, Java, Go, ReactJS, SonarQube, Jenkins, Github, Github Action, Nexus, Prometheus, Loki, Grafana, Linux: Ubuntu, Alpine, Shell Script, PostgreSQL, MongoDB, Kafka, Azure AKS, GraphQL, Android, iOS**
+
+### Forgeron et Développeur Java / Dart(AngularJS) - _4 ans_ - *MIPIH* 
 
 - Installation et maintenance d'une forge logicielle scalable horizontalement
 - Installation et maintenance de clusters Kubernetes
